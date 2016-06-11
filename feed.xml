@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Merxer - Articles</title>
+    <description>merxer, Tech blog
+</description>
+    <link>
+    http://merxer.github.io</link>
+    
+      
+      <item>
+        <title>Merxer Tech Blog</title>
+        
+          <description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-elixir&quot; data-lang=&quot;elixir&quot;&gt;&lt;span class=&quot;k&quot;&gt;defmodule&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Hello&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;world&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+    &lt;span class=&quot;sd&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Welcome to Merxer&#39;s blog&quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        
+        <pubDate>Sat, 11 Jun 2016 00:00:00 +0700</pubDate>
+        <link>
+        http://merxer.github.io/merxer-tech-blog.html</link>
+        <guid isPermaLink="true">http://merxer.github.io/merxer-tech-blog.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
